@@ -1,10 +1,8 @@
-# Bienvenido/a al Vademécum de la Facultad de Economía
+# Vademécum - Facultad de Economía
 
-You can use the [editor on GitHub](https://github.com/direccioncede/vademecum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El Vademécum de la Facultad de Economía de la Universidad de los Andes es una iniciativa que busca compilar en un mismo lugar todos los procesos y pasos a seguir para los profesores cuando necesiten realizar algún proceso administrativo. Entre estos se encuentran contrataciones, solicitudes, procesos disciplinarios, etc. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Contenido
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
