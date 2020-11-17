@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Bienvenido/a al Vademécum de la Facultad de Economía
 
 You can use the [editor on GitHub](https://github.com/direccioncede/vademecum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
